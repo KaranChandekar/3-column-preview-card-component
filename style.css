@@ -1,5 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
 
+:root {
+  --transparent-white: hsla(0, 0%, 100%, 0.75)   /* paragraphs */
+  --very-light-gray: hsl(0, 0%, 95%)    /* (background, headings, buttons) */
+  --bright-orange: hsl(31, 77%, 52%)
+  --dark-cyan: hsl(184, 100%, 22%)
+  --very-dark-cyan: hsl(179, 100%, 13%)
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
