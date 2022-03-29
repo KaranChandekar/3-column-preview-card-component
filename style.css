@@ -16,13 +16,10 @@ body {
   font-family: "Lexend Deca", sans-serif;
 }
 
-.main {
-  display: flex;
-  margin: 10%;
-}
-
 h3 {
   font-family: "Big Shoulders Display", cursive;
+  text-transform: uppercase;
+  font-size: 30px;
 }
 
 .attribution {
