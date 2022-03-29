@@ -13,11 +13,16 @@
 
 body {
   background-color: var(--very-light-gray);
+  font-family: "Lexend Deca", sans-serif;
 }
 
 .main {
   display: flex;
   margin: 10%;
+}
+
+h3 {
+  font-family: "Big Shoulders Display", cursive;
 }
 
 .attribution {
