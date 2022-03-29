@@ -11,7 +11,8 @@
   box-sizing: border-box;
 }
 
-body {
+body,
+button {
   background-color: var(--very-light-gray);
   font-family: "Lexend Deca", sans-serif;
 }
