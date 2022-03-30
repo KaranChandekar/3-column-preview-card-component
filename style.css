@@ -31,6 +31,21 @@ p {
   text-align: center;
 }
 
+.bright-orange {
+  background-color: var(--bright-orange);
+  color: #fff;
+}
+
+.dark-cyan {
+  background-color: var(--dark-cyan);
+  color: #fff;
+}
+
+.very-dark-cyan {
+  background-color: var(--very-dark-cyan);
+  color: #fff;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
