@@ -23,6 +23,11 @@ h3 {
   font-size: 30px;
 }
 
+p {
+  font-size: 15px;
+  text-align: center;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
