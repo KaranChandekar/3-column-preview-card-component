@@ -34,6 +34,7 @@ p {
 .bright-orange {
   background-color: var(--bright-orange);
   color: #fff;
+  border-radius: 10px 10px 0 0;
 }
 
 .dark-cyan {
@@ -44,6 +45,7 @@ p {
 .very-dark-cyan {
   background-color: var(--very-dark-cyan);
   color: #fff;
+  border-radius: 0 0 10px 10px;
 }
 
 .main {
