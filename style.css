@@ -46,6 +46,10 @@ p {
   color: #fff;
 }
 
+.main {
+  padding: 20px;
+}
+
 .card {
   padding: 30px;
 }
