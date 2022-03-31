@@ -46,6 +46,10 @@ p {
   color: #fff;
 }
 
+.card {
+  padding: 30px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
