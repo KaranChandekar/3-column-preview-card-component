@@ -56,6 +56,18 @@ p {
   padding: 30px;
 }
 
+.card img {
+  margin-bottom: 25px;
+}
+
+.card h3 {
+  margin-bottom: 20px;
+}
+
+.card p {
+  margin-bottom: 30px;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
