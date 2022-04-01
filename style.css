@@ -111,4 +111,8 @@ p {
     max-width: 900px;
     margin: auto;
   }
+
+  .bright-orange {
+    border-radius: 10px 0 0 10px;
+  }
 }
