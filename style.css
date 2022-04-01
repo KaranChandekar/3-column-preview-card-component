@@ -119,4 +119,12 @@ p {
   .very-dark-cyan {
     border-radius: 0 10px 10px 0;
   }
+
+  .card {
+    padding: 45px;
+  }
+
+  .card p {
+    margin-bottom: 80px;
+  }
 }
