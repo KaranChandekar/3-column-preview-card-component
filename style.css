@@ -115,4 +115,8 @@ p {
   .bright-orange {
     border-radius: 10px 0 0 10px;
   }
+
+  .very-dark-cyan {
+    border-radius: 0 10px 10px 0;
+  }
 }
