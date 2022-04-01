@@ -101,3 +101,14 @@ p {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+@media (min-width: 992px) {
+  .main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    max-width: 900px;
+    margin: auto;
+  }
+}
