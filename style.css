@@ -40,15 +40,14 @@ p {
   transition: all 0.4s ease-in-out;
 }
 
-.btn:hover {
-  background-color: transparent;
-  color: #fff;
-}
-
 .bright-orange {
   background-color: var(--bright-orange);
   color: #fff;
   border-radius: 10px 10px 0 0;
+}
+
+.bright-orange .btn {
+  color: var(--bright-orange);
 }
 
 .dark-cyan {
@@ -56,10 +55,23 @@ p {
   color: #fff;
 }
 
+.dark-cyan .btn {
+  color: var(--dark-cyan);
+}
+
 .very-dark-cyan {
   background-color: var(--very-dark-cyan);
   color: #fff;
   border-radius: 0 0 10px 10px;
+}
+
+.very-dark-cyan .btn {
+  color: var(--very-dark-cyan);
+}
+
+.btn:hover {
+  background-color: transparent;
+  color: #fff;
 }
 
 .main {
